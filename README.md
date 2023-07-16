@@ -1,2 +1,2 @@
 # fastapi-project-post-site
-[https://risqaliyev.com/](https://risqaliyev.com/)
+[https://risqaliyev.com/docs](https://risqaliyev.com/docs)
